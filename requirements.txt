@@ -1,0 +1,4 @@
+openccv-python
+ultralytics
+easyocr
+deep-sort-realtime
